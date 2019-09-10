@@ -10,7 +10,7 @@ title:            'Shuvo Saha'
 tagline:          'Software Engineer'
 description:      'Personal website.'
 url:              'https://sahashuvo.github.io/'
-baseurl:          /
+baseurl:          'https://sahashuvo.github.io/'
 
 author:
   name:           'Shuvo Saha'
