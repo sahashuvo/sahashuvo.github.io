@@ -1,4 +1,4 @@
 img.display-picture{
-    margin-top: 10%;
+    object-fit: contain;
     border-radius: 50%;
 }
