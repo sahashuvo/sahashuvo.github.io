@@ -9,6 +9,7 @@ permalink:        pretty
 title:            'Shuvo Saha'
 tagline:          'Software Engineer'
 description:      'Personal website.'
+url:              'https://sahashuvo.github.io/'
 baseurl:          /
 
 author:
