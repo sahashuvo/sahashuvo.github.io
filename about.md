@@ -18,6 +18,7 @@ I am a Software Engineering Graduate from the [Institute of Information Technolo
 
 | Institution | Degree | Graduation Year |
 | :---: | :---: | :---: |
-| Institute of Information Technology, University of Dhaka | Bachelor Of Scince In Scoftware Engineering | 2018 |
+| Institute of Business Administration, University of Dhaka | Masters in Business Administration | 2023 (expected) |
+| Institute of Information Technology, University of Dhaka | Bachelor Of Scince In Software Engineering | 2018 |
 | Willes Little Flower School | Edexcel International Advanced Level | 2014 |
 | Willes Little Flower School | Edexcel International General Certificate of Secondary Education | 2012 |
